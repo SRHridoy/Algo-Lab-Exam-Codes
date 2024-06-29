@@ -1,0 +1,1 @@
+{"name":"Local: 02_merge_sort","url":"c:\\Users\\Sohan\\OneDrive\\Desktop\\AlgoPrep\\02_merge_sort.cpp","tests":[{"id":1719684068936,"input":"5\n5 4 3 2 1","output":"1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Sohan\\OneDrive\\Desktop\\AlgoPrep\\02_merge_sort.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 14","url":"c:\\Users\\Sohan\\OneDrive\\Desktop\\AlgoPrep\\14.topo_sort.cpp","tests":[{"id":1719689335979,"input":"6 6\n0 1\n0 3\n1 2 \n1 4\n1 5\n2 5","output":"0 3 1 4 2 5 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Sohan\\OneDrive\\Desktop\\AlgoPrep\\14.topo_sort.cpp","group":"local","local":true}
